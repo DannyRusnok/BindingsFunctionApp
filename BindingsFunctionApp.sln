@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingsFunctionApp", "BindingsFunctionApp\BindingsFunctionApp.csproj", "{9754A843-2C69-4E63-BD7D-A4B9CF1150D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9754A843-2C69-4E63-BD7D-A4B9CF1150D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9754A843-2C69-4E63-BD7D-A4B9CF1150D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9754A843-2C69-4E63-BD7D-A4B9CF1150D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9754A843-2C69-4E63-BD7D-A4B9CF1150D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41425543-918C-45E5-AD6A-812A728F56F1}
+	EndGlobalSection
+EndGlobal
